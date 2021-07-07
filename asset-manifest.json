@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/hair-salon/static/css/main.b270edfd.chunk.css",
+    "main.js": "/hair-salon/static/js/main.e07802af.chunk.js",
+    "main.js.map": "/hair-salon/static/js/main.e07802af.chunk.js.map",
+    "runtime-main.js": "/hair-salon/static/js/runtime-main.97182ea1.js",
+    "runtime-main.js.map": "/hair-salon/static/js/runtime-main.97182ea1.js.map",
+    "static/js/2.63470a84.chunk.js": "/hair-salon/static/js/2.63470a84.chunk.js",
+    "static/js/2.63470a84.chunk.js.map": "/hair-salon/static/js/2.63470a84.chunk.js.map",
+    "static/js/3.28e4c62a.chunk.js": "/hair-salon/static/js/3.28e4c62a.chunk.js",
+    "static/js/3.28e4c62a.chunk.js.map": "/hair-salon/static/js/3.28e4c62a.chunk.js.map",
+    "index.html": "/hair-salon/index.html",
+    "static/css/main.b270edfd.chunk.css.map": "/hair-salon/static/css/main.b270edfd.chunk.css.map",
+    "static/js/2.63470a84.chunk.js.LICENSE.txt": "/hair-salon/static/js/2.63470a84.chunk.js.LICENSE.txt",
+    "static/media/insta-icon.2dc43412.svg": "/hair-salon/static/media/insta-icon.2dc43412.svg",
+    "static/media/index.css": "/hair-salon/static/media/sourcesanspro-regular.95f3ed41.woff",
+    "static/media/logo.41137635.jpg": "/hair-salon/static/media/logo.41137635.jpg",
+    "static/media/men-blue.ed91976e.svg": "/hair-salon/static/media/men-blue.ed91976e.svg",
+    "static/media/men.1c619369.svg": "/hair-salon/static/media/men.1c619369.svg",
+    "static/media/metro.5d21a715.svg": "/hair-salon/static/media/metro.5d21a715.svg",
+    "static/media/nails-blue.a09a04a6.svg": "/hair-salon/static/media/nails-blue.a09a04a6.svg",
+    "static/media/nails.f4e244c0.svg": "/hair-salon/static/media/nails.f4e244c0.svg",
+    "static/media/phone.3f6dcfdb.svg": "/hair-salon/static/media/phone.3f6dcfdb.svg",
+    "static/media/photo1.ddaa62c0.jpg": "/hair-salon/static/media/photo1.ddaa62c0.jpg",
+    "static/media/photo2.2c000e30.jpg": "/hair-salon/static/media/photo2.2c000e30.jpg",
+    "static/media/photo3.157082e0.jpg": "/hair-salon/static/media/photo3.157082e0.jpg",
+    "static/media/photo4.4aa5acc4.jpg": "/hair-salon/static/media/photo4.4aa5acc4.jpg",
+    "static/media/photo5.096d109b.jpg": "/hair-salon/static/media/photo5.096d109b.jpg",
+    "static/media/speaker.92410032.png": "/hair-salon/static/media/speaker.92410032.png",
+    "static/media/vk-icon.15652612.svg": "/hair-salon/static/media/vk-icon.15652612.svg",
+    "static/media/women-blue.a4ca548c.svg": "/hair-salon/static/media/women-blue.a4ca548c.svg",
+    "static/media/women.4992a4b2.svg": "/hair-salon/static/media/women.4992a4b2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97182ea1.js",
+    "static/js/2.63470a84.chunk.js",
+    "static/css/main.b270edfd.chunk.css",
+    "static/js/main.e07802af.chunk.js"
+  ]
+}
