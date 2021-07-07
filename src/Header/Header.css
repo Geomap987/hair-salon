@@ -1,0 +1,123 @@
+.header {
+    width: 94%;
+    height: 224px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding-right: 16px;
+
+}
+
+.header__logo {
+    width: 260px;
+    height: 200px;
+    object-position: center;
+    align-self: center;
+}
+
+.header__container {
+    width: fit-content;
+    height: 146px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-self: center;
+}
+
+.header__text-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.header__icons {
+    width: 34px;
+    height: 34px;
+    align-self: center;
+}
+
+.header__text {
+    margin: 0 0 0 8px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 24px;
+    line-height: 34px;
+    color: rgba(55, 73, 155, 1);
+}
+
+.header__adress {
+    margin: 0 0 0 42px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(55, 73, 155, 1);
+}
+
+@media screen and (max-width: 850px) {
+    .header {
+        height: 188px;
+    }
+    .header__logo {
+        width: 208px;
+        height: 160px;
+    }
+    .header__icons {
+        width: 24px;
+        height: 24px;
+    }
+    .header__text {
+        margin: 0 0 0 8px;
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .header__adress {
+        margin: 0 0 0 34px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-size: 16px;
+    }
+    .header__container {
+        width: fit-content;
+        height: 128px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .header__container:last-of-type {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .header {
+        height: 128px;
+    }
+    .header__logo {
+        width: 124px;
+        height: 96px;
+    }
+    .header__icons {
+        width: 18px;
+        height: 18px;
+    }
+    .header__text {
+        margin: 0 0 0 8px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .header__adress {
+        margin: 0 0 0 18px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-size: 12px;
+    }
+    .header__container {
+        width: fit-content;
+        height: 96px;
+    }
+    .header__container:last-of-type {
+        display: none;
+    }
+}
