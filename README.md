@@ -1,10 +1,24 @@
-## <https://geomap987.github.io/hair-salon>
+# Hair Salon Landing page
 
-**Описание**
+[Live Demo](https://geomap987.github.io/hair-salon)
 
-Проект написан на React и представляет собой лендинг с информацией об услугах салона красоты.
+## Overview
 
-**Основные технологии**
-* Проект реализован с использованием функциональных компонентов React, для переключения кнопок использован useState;
-* Для получения эффекта адаптивности были использованы медиазапросы, а также свойства flex-box и grid;
-* Для блока карты использовалась библиотека Yandex Maps для React;
+Hair Salon is a React-based landing page designed to showcase the services of a beauty salon.
+
+## Features
+
+- Built with React
+- Responsive layout for different screen sizes
+- Interactive button switching using React state
+- Map section integrated with Yandex Maps
+
+## Technologies Used
+
+- React
+- Functional components
+- `useState`
+- CSS Flexbox
+- CSS Grid
+- Media queries
+- Yandex Maps for React
