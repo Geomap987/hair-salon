@@ -9,11 +9,11 @@ import photo5 from '../images/photo5.jpg';
 function Photo() {
     return (
         <div className="photo__container">
-            <img className="photo__image" src={photo5} alt="Фото обложки"></img>
-            <img className="photo__image" src={photo1} alt="Фото обложки"></img>
-            <img className="photo__image"src={photo2} alt="Фото обложки"></img>
-            <img className="photo__image"src={photo3} alt="Фото обложки"></img>
-            <img className="photo__image"src={photo4} alt="Фото обложки"></img>
+            <img className="photo__image" src={photo5} alt="Salon gallery cover"></img>
+            <img className="photo__image" src={photo1} alt="Salon gallery cover"></img>
+            <img className="photo__image" src={photo2} alt="Salon gallery cover"></img>
+            <img className="photo__image" src={photo3} alt="Salon gallery cover"></img>
+            <img className="photo__image" src={photo4} alt="Salon gallery cover"></img>
         </div>
     );
 }
